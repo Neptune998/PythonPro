@@ -31,7 +31,7 @@ class Prime_no_generators(object):
 
 if __name__ == "__main__":
 
-	n=100
+	n=-100
 
 	obj = Prime_no_generators(n)
 
